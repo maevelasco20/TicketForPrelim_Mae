@@ -1,0 +1,14 @@
+.home{
+    font-size: 30px;
+    text-align: center;
+}
+.p{
+    text-align: center;
+    font-size: large;
+}
+
+.button{
+    text-align: center;
+    background-color: gray;
+    border-radius: 50px;
+}
